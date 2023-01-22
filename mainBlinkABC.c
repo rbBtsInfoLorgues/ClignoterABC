@@ -10,7 +10,7 @@ int main()
     printf("Hello world\n");
     printf("I am ABC blinker\n");
 
-    for (i=0 ; i< 2 ; i++)
+    for (i=0 ; i< 4 ; i++)
     {
         printf("A B C\n");
         delay(1000);
